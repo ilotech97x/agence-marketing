@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ilotech97x.github.io/agence-marketing/sitemap.xml
+Sitemap: https://studio.ilo-tech.com/sitemap.xml
